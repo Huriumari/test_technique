@@ -1,3 +1,13 @@
-.employees img {
-	margin:10px;
+.employees{
+  background-color: #EEE;
+  padding: .6em;
+  margin: .5em;
+  max-height: 10em;
+  border-radius: 4px;
+}
+
+.employees img{
+	height:auto;
+	max-height: 9em;
+	max-width: 9em;
 }
